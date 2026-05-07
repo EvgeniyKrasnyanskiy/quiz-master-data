@@ -22,5 +22,11 @@
     "title": "math_01",
     "qCount": 30,
     "fileName": "math_01.dat"
+  },
+  {
+    "id": "mult_02",
+    "title": "mult_02",
+    "qCount": 50,
+    "fileName": "mult_02.dat"
   }
 ]
