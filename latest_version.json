@@ -1,6 +1,5 @@
 {
-  "__instruction": "1. Build APK -> 2. Upload to root as 'app-release.apk' -> 3. Bump version here.",
+  "__comment": "ИНСТРУКЦИЯ: 1. Создать новый релиз в QuizMaster. 2. Обновить поле 'version' здесь, чтобы приложение увидело обновление.",
   "name": "QuizMaster",
-  "version": "1.2.2",
-  "force_update": false
+  "version": "1.2.2"
 }
