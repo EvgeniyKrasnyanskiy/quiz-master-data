@@ -1,0 +1,6 @@
+{
+  "__instruction": "1. Build APK -> 2. Upload to root as 'app-release.apk' -> 3. Bump version here.",
+  "name": "QuizMaster",
+  "version": "1.2.2",
+  "force_update": false
+}
