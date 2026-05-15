@@ -40,5 +40,11 @@
     "title": "engl_20",
     "qCount": 20,
     "fileName": "engl_20.dat"
+  },
+  {
+    "id": "engl_24",
+    "title": "engl_24",
+    "qCount": 24,
+    "fileName": "engl_24.dat"
   }
 ]
